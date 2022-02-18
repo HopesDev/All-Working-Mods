@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Guard.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note sing left0000" x="0" y="0" width="632" height="810" frameX="0" frameY="0" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0001" x="0" y="0" width="632" height="810" frameX="0" frameY="0" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0002" x="632" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0003" x="632" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0004" x="632" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0005" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0006" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0007" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0008" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0009" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0010" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0011" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0012" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0013" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0014" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="note sing left0015" x="1271" y="0" width="639" height="778" frameX="-19" frameY="-8" frameWidth="658" frameHeight="810"/>
+	<SubTexture name="spooky DOWN note0000" x="1910" y="0" width="535" height="704" frameX="0" frameY="0" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0001" x="1910" y="0" width="535" height="704" frameX="0" frameY="0" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0002" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0003" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0004" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0005" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0006" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0007" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0008" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0009" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0010" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0011" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0012" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0013" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0014" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky DOWN note0015" x="2445" y="0" width="382" height="723" frameX="-131" frameY="-37" frameWidth="535" frameHeight="760"/>
+	<SubTexture name="spooky UP NOTE0000" x="2827" y="0" width="546" height="860" frameX="0" frameY="0" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0001" x="2827" y="0" width="546" height="860" frameX="0" frameY="0" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0002" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0003" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0004" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0005" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0006" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0007" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0008" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0009" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0010" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0011" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0012" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0013" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0014" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky UP NOTE0015" x="3373" y="0" width="550" height="821" frameX="-23" frameY="-19" frameWidth="573" frameHeight="860"/>
+	<SubTexture name="spooky dance idle0000" x="0" y="860" width="524" height="771" frameX="-28" frameY="-30" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0001" x="0" y="860" width="524" height="771" frameX="-28" frameY="-30" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0002" x="524" y="860" width="516" height="785" frameX="-21" frameY="-21" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0003" x="524" y="860" width="516" height="785" frameX="-21" frameY="-21" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0004" x="1040" y="860" width="513" height="807" frameX="-12" frameY="-5" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0005" x="1040" y="860" width="513" height="807" frameX="-12" frameY="-5" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0006" x="1553" y="860" width="511" height="814" frameX="-5" frameY="-3" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0007" x="1553" y="860" width="511" height="814" frameX="-5" frameY="-3" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0008" x="2064" y="860" width="509" height="814" frameX="-3" frameY="-1" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0009" x="2064" y="860" width="509" height="814" frameX="-3" frameY="-1" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0010" x="2573" y="860" width="509" height="814" frameX="0" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0011" x="2573" y="860" width="509" height="814" frameX="0" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0012" x="2573" y="860" width="509" height="814" frameX="0" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0013" x="2573" y="860" width="509" height="814" frameX="0" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0014" x="2573" y="860" width="509" height="814" frameX="0" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky dance idle0015" x="2573" y="860" width="509" height="814" frameX="0" frameY="0" frameWidth="552" frameHeight="817"/>
+	<SubTexture name="spooky sing right0000" x="3082" y="860" width="514" height="793"/>
+	<SubTexture name="spooky sing right0001" x="3082" y="860" width="514" height="793"/>
+	<SubTexture name="spooky sing right0002" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0003" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0004" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0005" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0006" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0007" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0008" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0009" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0010" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0011" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0012" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0013" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0014" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+	<SubTexture name="spooky sing right0015" x="3596" y="860" width="499" height="774" frameX="-15" frameY="-1" frameWidth="514" frameHeight="793"/>
+</TextureAtlas>
